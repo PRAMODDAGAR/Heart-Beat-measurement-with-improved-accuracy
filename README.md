@@ -1,1 +1,2 @@
 # Heart-Beat-measurement-with-improved-accuracy
+The project aims to create a computer-based system for accurate heart rate measurement. It involves acquiring data from various sources, applying signal processing techniques, extracting features, calculating heart rate, and providing a user-friendly interface for visualization. The system will be validated for accuracy and can be extended to include additional functionalities.
